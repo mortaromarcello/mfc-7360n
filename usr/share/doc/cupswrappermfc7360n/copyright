@@ -1,0 +1,18 @@
+This package was debianized by the alien program by converting
+a binary .rpm package on Fri, 11 Jun 2010 16:56:31 +0900
+
+Copyright: Copyright Brother Industries,Ltd 2006-2008
+
+Information from the binary package:
+Name        : cupswrapperMFC7360N          Relocations: (not relocatable)
+Version     : 2.0.4                             Vendor: (none)
+Release     : 2                             Build Date: Fri 11 Jun 2010 04:55:06 PM JST
+Install Date: (not installed)               Build Host: localhost
+Group       : Utilities/System              Source RPM: cupswrapperMFC7360N-2.0.4-2.src.rpm
+Size        : 112764                           License: Copyright Brother Industries,Ltd 2006-2008
+Signature   : (none)
+URL         : www.brother.com
+Summary     : Brother MFC7360N CUPS wrapper driver
+Description :
+Brother MFC7360N CUPS wrapper driver
+
